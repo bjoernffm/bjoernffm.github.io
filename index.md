@@ -16,3 +16,5 @@
 #### Description
 
 Some finger exercise regarding React and Redux &ndash; this app helps adding hours and minutes, e.g. for aviation logging or freelancing jobs where measuring of time is essential.
+
+![Time Calculator](/assets/images/time-calculator.png)

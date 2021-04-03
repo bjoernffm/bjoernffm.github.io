@@ -11,7 +11,7 @@
 
 [Open Repository](https://github.com/bjoernffm/seven-segment-display)
 
-[Show Demo](/time-calculator)
+[Show Demo](/seven-segment-display)
 
 #### Description
 

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/circling-approach/static/css/main.c3e4631f.css",
+    "main.js": "/circling-approach/static/js/main.b8228886.js",
+    "static/js/787.c85a0234.chunk.js": "/circling-approach/static/js/787.c85a0234.chunk.js",
+    "index.html": "/circling-approach/index.html",
+    "main.c3e4631f.css.map": "/circling-approach/static/css/main.c3e4631f.css.map",
+    "main.b8228886.js.map": "/circling-approach/static/js/main.b8228886.js.map",
+    "787.c85a0234.chunk.js.map": "/circling-approach/static/js/787.c85a0234.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3e4631f.css",
+    "static/js/main.b8228886.js"
+  ]
+}

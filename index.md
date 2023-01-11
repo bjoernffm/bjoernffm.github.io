@@ -7,6 +7,18 @@
 
 # Projects
 
+## Circling Approach Calculator
+
+[Open Repository](https://github.com/bjoernffm/circling-approach)
+
+[Show Demo](/circling-approach)
+
+#### Description
+
+The circling approach calculator helps you planning, calculating and conducting a circling approach. Based on an initial course (e.g. an ils or localizer) the calculator displays the neccessary data including course-, wind-, altitute-, and time-data.
+
+![Circling Approach Calculator](/assets/images/circling-approach.png)
+
 ## Seven Segment Display
 
 [Open Repository](https://github.com/bjoernffm/seven-segment-display)
